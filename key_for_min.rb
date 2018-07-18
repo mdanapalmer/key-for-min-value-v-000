@@ -12,4 +12,4 @@ end
 end
 child
 end
-#
+#This one is weird, since in order to do the same function as a #min, you have to define both the key and the value as variables within the method and compare them to the iterator vars you set.
